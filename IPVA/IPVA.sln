@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPVA", "IPVA.csproj", "{ECF65848-8752-4356-B908-432A9D3DA614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF65848-8752-4356-B908-432A9D3DA614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF65848-8752-4356-B908-432A9D3DA614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF65848-8752-4356-B908-432A9D3DA614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF65848-8752-4356-B908-432A9D3DA614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505A8E51-4670-4039-BDE3-9821258716C9}
+	EndGlobalSection
+EndGlobal
