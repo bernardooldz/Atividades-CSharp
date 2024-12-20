@@ -4,6 +4,14 @@ Este repositório contém meus melhores projetos desenvolvidos durante minha jor
 
 ---
 
+## 💻 **Tecnologias Utilizadas**
+
+- **Linguagem**: C# (CSharp)
+- **Framework**: .NET Framework
+- **Interface Gráfica**: Windows Forms
+
+---
+
 ## 📂 Projetos
 
 ### 1. **Análise de Atletas 🏃‍♂️**
