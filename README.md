@@ -55,6 +55,32 @@ Programa que calcula a tarifa mensal de uma conta bancária com base no saldo m�
 
 ---
 
+## 📜 Como usar este projeto
+
+1. **Clone o repositório**  
+   Use o seguinte comando no terminal para clonar o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Atividades-Csharp.git
+
+3. **Abra o projeto no Visual Studio**  
+   - Certifique-se de que o Visual Studio está instalado no seu computador.  
+   - Navegue até o diretório onde o repositório foi clonado.  
+   - Abra o arquivo `.sln` correspondente ao projeto que deseja executar.
+
+4. **Selecione o programa que deseja rodar**  
+   Cada programa está em sua própria pasta ou arquivo, dependendo da organização do repositório. Certifique-se de selecionar o programa correto para executar no Visual Studio.
+
+5. **Compile e execute o código**  
+   - Pressione `Ctrl + F5` ou clique em **Iniciar** para compilar e executar o código.  
+   - Para programas feitos com Windows Forms, a interface será exibida.  
+   - Para programas feitos no terminal, você poderá interagir diretamente pela janela do console.
+
+6. **Adapte e experimente**  
+   - Você pode alterar os valores inseridos ou até mesmo modificar o código para experimentar e aprender mais.  
+   - Todos os projetos foram feitos para fins de aprendizado, então sinta-se à vontade para explorar!
+
+---
+
 ## 🤝 Contribuições
 
 Se você deseja melhorar o projeto ou adicionar novas funcionalidades, sinta-se à vontade para fazer um **fork** e enviar um **pull request**. Ficarei feliz em revisar e incorporar melhorias!
